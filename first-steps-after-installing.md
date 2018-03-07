@@ -14,4 +14,9 @@
     - ```sudo apt update```
     - ```sudo apt install sublime-text```
     - টার্মিনালে ```subl``` টাইপ করে দেখতে পারেন Sublime Text ইনস্টল হয়েছে কিনা।
-  - 
+  - যারা গুগল ক্রোম ব্যাবহার করেন তারা হয়তো একে মিস করছেন। মিস করে কি লাভ! ইনস্টল করে ফেলুন নিচের কমান্ডগুলো চালিয়েঃ 
+    - ```wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -```
+    - ```echo 'deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main' | sudo tee /etc/apt/sources.list.d/google-chrome.list```
+    - ```sudo apt update```
+    - ```sudo apt install google-chrome-stable```
+
