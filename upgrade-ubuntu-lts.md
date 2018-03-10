@@ -20,6 +20,6 @@
 
 নিশ্চিত হতে `lsb_release -a` কমান্ডটা  চালান।
 
-সফল হয়েছেন??? যদি উত্তরটা হ্যা হয় তাহলে একটা ধন্যবাদ কিন্তু আমার পাওনা রইল... :smile: :smile: :smile:
+সফল হয়েছেন??? যদি উত্তরটা হ্যা হয় তাহলে একটা ধন্যবাদ কিন্তু আমার পাওনা রইল... :stuck_out_tongue_winking_eye: :stuck_out_tongue_winking_eye: :stuck_out_tongue_winking_eye:
 
 
