@@ -1,6 +1,6 @@
 # Upgrade Ubuntu 16.04.4 LTS to Ubuntu 18.04 LTS
 
-> I have found that if you love life, life will love you back.
+> I have found that if you love life, life will love you back.  
 > _-Audrey Hepburn_
 
 
