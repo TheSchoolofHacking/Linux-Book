@@ -3,8 +3,6 @@
 > I have found that if you love life, life will love you back.  
 > _-Audrey Hepburn_
 
-**Powered by:** [![Powered by Github](https://uysalmustafa.files.wordpress.com/2016/11/git-logo.png?w=40)](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Logo.png)
-
 **উবুন্টু `16.04.4 LTS` ব্যাবহারকারীরা হয়তো এবার `18.04 LTS` এ মুভ করতে চাইবেন। তো নতুন করে ইনস্টল না করেই আগের ভার্সন থেকে কিভাবে সহজে আপগ্রেড করে নেয়া যায়, মূলত সে ব্যাপারটাই আলোচনা করবো।**
 
 তো চলুন শুরু করা যাক। আপনার কাজ কেবল নিচের কমান্ডগুলো পরপর চালানো। পারবেন না? দেখাই যাক:
